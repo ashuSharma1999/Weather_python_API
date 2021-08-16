@@ -1,0 +1,4 @@
+* First run this project with the help of using command- python manage.py runserver
+* after run this project Enter your city name in the search box.
+* Finally see your city weather information.
+* Thank you for using this project.
